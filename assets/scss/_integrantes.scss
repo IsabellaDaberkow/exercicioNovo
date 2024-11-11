@@ -1,0 +1,23 @@
+footer {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    background-color: gold;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
